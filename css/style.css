@@ -55,7 +55,7 @@ header{
 }
 
 
-/*Services*/
+
 .services{
 	padding-top: 96px;
 
@@ -114,7 +114,8 @@ background-color: #2d3334;
 .about_title img{
 	margin-bottom: 70px;
 }
-/*Testimonial*/
+
+
 .testimonial{
 		padding-top: 130px;
 	padding-bottom: 80px;
@@ -165,7 +166,7 @@ padding-top: 110px;
 
 
 
-/*Fun Facts*/
+
 .fun_facts{
 	background: url(../images/header_bg.jpg);
 	background-attachment: fixed !important;
@@ -329,7 +330,7 @@ text-transform: uppercase;
 	border-bottom: 1px solid #ddd;
 }
 
-/*Contact*/
+
 
 .single_contact_info{
 padding-bottom: 21px;	
@@ -387,7 +388,7 @@ padding-top: 10px;
 
 
 
-/*Footer*/
+
 footer{
 	background-color: #f1f1f1;
 	padding-top: 50px;
